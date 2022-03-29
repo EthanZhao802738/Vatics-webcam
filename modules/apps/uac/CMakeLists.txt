@@ -1,0 +1,9 @@
+SET(SRC_LIST uac_service.cpp)
+SET(LINK_LIST atk_audio_utils_mmap membroker syncringbuffer)
+
+INCLUDE_DIRECTORIES(${CMAKE_CURRENT_SOURCE_DIR})
+SET(TARGET_NAME uac_service)
+ADD_EXECUTABLE(${TARGET_NAME} ${SRC_LIST})
+TARGET_LINK_LIBRARIES(${TARGET_NAME} ${LINK_LIST})
+ADD_DEPENDENCIES(${TARGET_NAME} atk_audio_utils)
+

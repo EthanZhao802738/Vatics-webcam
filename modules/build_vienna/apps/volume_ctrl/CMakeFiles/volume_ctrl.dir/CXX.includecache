@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//audiotk/audio_vol_ctrl.h
+alsa/asoundlib.h
+-
+
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/apps/volume_ctrl/volume_ctrl.cpp
+audiotk/audio_vol_ctrl.h
+-
+

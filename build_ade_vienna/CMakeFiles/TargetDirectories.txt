@@ -1,0 +1,3 @@
+/home/ethan/Vatics-M5s/build_ade_vienna/CMakeFiles/Vision_Thermal.dir
+/home/ethan/Vatics-M5s/build_ade_vienna/CMakeFiles/edit_cache.dir
+/home/ethan/Vatics-M5s/build_ade_vienna/CMakeFiles/rebuild_cache.dir

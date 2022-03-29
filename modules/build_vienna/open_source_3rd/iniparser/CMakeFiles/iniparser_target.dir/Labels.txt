@@ -1,0 +1,13 @@
+# Target labels
+ iniparser_target
+# Source files and their labels
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/iniparser/CMakeFiles/iniparser_target
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/iniparser/CMakeFiles/iniparser_target.rule
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/iniparser/CMakeFiles/iniparser_target-complete.rule
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/iniparser/iniparser_target-prefix/src/iniparser_target-stamp/iniparser_target-install.rule
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/iniparser/iniparser_target-prefix/src/iniparser_target-stamp/iniparser_target-mkdir.rule
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/iniparser/iniparser_target-prefix/src/iniparser_target-stamp/iniparser_target-download.rule
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/iniparser/iniparser_target-prefix/src/iniparser_target-stamp/iniparser_target-update.rule
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/iniparser/iniparser_target-prefix/src/iniparser_target-stamp/iniparser_target-patch.rule
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/iniparser/iniparser_target-prefix/src/iniparser_target-stamp/iniparser_target-configure.rule
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/iniparser/iniparser_target-prefix/src/iniparser_target-stamp/iniparser_target-build.rule

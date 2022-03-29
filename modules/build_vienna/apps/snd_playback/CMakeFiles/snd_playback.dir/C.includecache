@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/apps/snd_playback/gpio_sysfs_ctrl.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+string.h
+-
+fcntl.h
+-
+gpio_sysfs_ctrl.h
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/apps/snd_playback/gpio_sysfs_ctrl.h
+
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/apps/snd_playback/gpio_sysfs_ctrl.h
+

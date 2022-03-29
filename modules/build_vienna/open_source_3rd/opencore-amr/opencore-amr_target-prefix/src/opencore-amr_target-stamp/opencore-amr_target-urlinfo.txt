@@ -1,0 +1,3 @@
+repository='external project URL'
+module='/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/open_source_3rd/opencore-amr/opencore-amr-0.1.3.tar.gz'
+tag=''

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../MsgBroker/msg_broker.h
+stdint.h
+-
+pthread.h
+-
+
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/MsgBroker/msg_broker.c
+fcntl.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+sys/un.h
+-
+sys/socket.h
+-
+unistd.h
+-
+stdio.h
+-
+msg_broker.h
+-
+pthread.h
+-
+errno.h
+-
+stdlib.h
+-
+string.h
+-
+

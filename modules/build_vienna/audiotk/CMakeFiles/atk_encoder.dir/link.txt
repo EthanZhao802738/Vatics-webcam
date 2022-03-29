@@ -1,0 +1,2 @@
+/opt/vtcs_toolchain/vienna/usr/bin/arm-linux-ar qc ../../libs/vienna/libatk_encoder.a  CMakeFiles/atk_encoder.dir/audio_encoder.c.o
+/opt/vtcs_toolchain/vienna/usr/bin/arm-linux-ranlib ../../libs/vienna/libatk_encoder.a

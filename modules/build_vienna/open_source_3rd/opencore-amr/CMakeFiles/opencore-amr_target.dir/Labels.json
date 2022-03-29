@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/opencore-amr/CMakeFiles/opencore-amr_target"
+		},
+		{
+			"file" : "/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/opencore-amr/CMakeFiles/opencore-amr_target.rule"
+		},
+		{
+			"file" : "/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/opencore-amr/CMakeFiles/opencore-amr_target-complete.rule"
+		},
+		{
+			"file" : "/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/opencore-amr/opencore-amr_target-prefix/src/opencore-amr_target-stamp/opencore-amr_target-install.rule"
+		},
+		{
+			"file" : "/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/opencore-amr/opencore-amr_target-prefix/src/opencore-amr_target-stamp/opencore-amr_target-mkdir.rule"
+		},
+		{
+			"file" : "/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/opencore-amr/opencore-amr_target-prefix/src/opencore-amr_target-stamp/opencore-amr_target-download.rule"
+		},
+		{
+			"file" : "/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/opencore-amr/opencore-amr_target-prefix/src/opencore-amr_target-stamp/opencore-amr_target-update.rule"
+		},
+		{
+			"file" : "/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/opencore-amr/opencore-amr_target-prefix/src/opencore-amr_target-stamp/opencore-amr_target-patch.rule"
+		},
+		{
+			"file" : "/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/opencore-amr/opencore-amr_target-prefix/src/opencore-amr_target-stamp/opencore-amr_target-configure.rule"
+		},
+		{
+			"file" : "/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/opencore-amr/opencore-amr_target-prefix/src/opencore-amr_target-stamp/opencore-amr_target-build.rule"
+		},
+		{
+			"file" : "/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/build_vienna/open_source_3rd/opencore-amr/opencore-amr_target-prefix/src/opencore-amr_target-stamp/opencore-amr_target-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"opencore-amr_target"
+		],
+		"name" : "opencore-amr_target"
+	}
+}

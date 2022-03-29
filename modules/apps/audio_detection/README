@@ -1,0 +1,9 @@
+How to use audio detection example:
+
+(1) Do instructions in ALSA Plugins Audio Library User Guide
+
+(2) Run  ./tinyaenc_mmap -d "plug:vatics" -r 16000 -C 0 -b 32000 -t 0 -S 0 -i 0 & 
+
+(3) Run ./audio_detect -D
+
+(4) Playback test audio file to Line input and alarm occur to console

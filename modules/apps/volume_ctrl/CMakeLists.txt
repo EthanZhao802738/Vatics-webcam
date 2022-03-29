@@ -1,0 +1,7 @@
+SET(SRC_LIST volume_ctrl.cpp)
+SET(LINK_LIST atk_audio_utils_mmap)
+
+SET(TARGET_NAME volume_ctrl)
+ADD_EXECUTABLE(${TARGET_NAME} ${SRC_LIST})
+TARGET_LINK_LIBRARIES(${TARGET_NAME} ${LINK_LIST})
+ADD_DEPENDENCIES(${TARGET_NAME} atk_audio_utils_mmap)

@@ -1,0 +1,118 @@
+sp_dec.lo: ../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/sp_dec.cpp \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/sp_dec.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h \
+ ../oscl/oscl_base_macros.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gsm_amr_typedefs.h \
+ ../oscl/oscl_base.h \
+ /opt/vtcs_toolchain/vienna/usr/lib/gcc/arm-buildroot-linux-uclibcgnueabihf/4.9.4/include/stdint.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/stdint.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/features.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/uClibc_config.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/sys/cdefs.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wchar.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wordsize.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/cnst.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/dec_amr.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/mode.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/dtx_dec.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/d_plsf.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/cnst.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/mode.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/get_const_tbls.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gc_pred.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/c_g_aver.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/frame.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/dtx_common_def.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/ec_gains.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/ph_disp.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/get_const_tbls.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/bgnscd.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/lsp_avg.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/pstfilt.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/preemph.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/agc.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/post_pro.h \
+ ../oscl/oscl_mem.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/stdlib.h \
+ /opt/vtcs_toolchain/vienna/usr/lib/gcc/arm-buildroot-linux-uclibcgnueabihf/4.9.4/include/stddef.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/string.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/bitno_tab.h
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/sp_dec.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h:
+
+../oscl/oscl_base_macros.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gsm_amr_typedefs.h:
+
+../oscl/oscl_base.h:
+
+/opt/vtcs_toolchain/vienna/usr/lib/gcc/arm-buildroot-linux-uclibcgnueabihf/4.9.4/include/stdint.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/stdint.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/features.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/uClibc_config.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/sys/cdefs.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wchar.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wordsize.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/cnst.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/dec_amr.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/mode.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/dtx_dec.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/d_plsf.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/cnst.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/mode.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/get_const_tbls.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gc_pred.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/c_g_aver.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/frame.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/dtx_common_def.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/ec_gains.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/ph_disp.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/get_const_tbls.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/bgnscd.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/lsp_avg.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/pstfilt.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/preemph.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/agc.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/dec/src/post_pro.h:
+
+../oscl/oscl_mem.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/stdlib.h:
+
+/opt/vtcs_toolchain/vienna/usr/lib/gcc/arm-buildroot-linux-uclibcgnueabihf/4.9.4/include/stddef.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/string.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/bitno_tab.h:

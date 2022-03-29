@@ -1,0 +1,32 @@
+
+SET(SRC_LIST playback_example_mmap.cpp)
+SET(LINK_LIST atk_audio_utils_mmap asound syncringbuffer membroker msgbroker atk_encoder g711sdec g726sdec)
+IF(GAMR_SUPPORT_ENABLE)
+	ADD_DEFINITIONS("-DGAMR_SUPPORT")
+	LIST(APPEND LINK_LIST opencore-amrnb)
+ENDIF()
+
+IF(AAC_SW_DEC_ENABLE)
+	ADD_DEFINITIONS("-DAAC_SW_DEC")
+	LIST(APPEND LINK_LIST fdk-aacdec)
+ENDIF()
+
+INCLUDE_DIRECTORIES(${CMAKE_CURRENT_SOURCE_DIR} ${MODULE_OPEN_SRC_3RD_INSTALL_DIR}/include)
+LINK_DIRECTORIES(${MODULE_OPEN_SRC_3RD_INSTALL_DIR}/lib)
+
+SET(TARGET_NAME playback_example_mmap)
+ADD_EXECUTABLE(${TARGET_NAME} ${SRC_LIST})
+TARGET_LINK_LIBRARIES(${TARGET_NAME} ${LINK_LIST})
+
+###############################################################
+
+SET(SRC_LIST playback_file_mmap.cpp)
+SET(LINK_LIST atk_audio_utils_mmap asound g711sdec)
+
+INCLUDE_DIRECTORIES(${CMAKE_CURRENT_SOURCE_DIR} ${MODULE_OPEN_SRC_3RD_INSTALL_DIR}/include)
+LINK_DIRECTORIES(${MODULE_OPEN_SRC_3RD_INSTALL_DIR}/lib)
+
+SET(TARGET_NAME playback_file_mmap)
+ADD_EXECUTABLE(${TARGET_NAME} ${SRC_LIST})
+TARGET_LINK_LIBRARIES(${TARGET_NAME} ${LINK_LIST})
+

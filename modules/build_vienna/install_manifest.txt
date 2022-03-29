@@ -1,0 +1,4 @@
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/../vtcs_root_vienna/lib/libmsgbroker.so.1.0.0.0
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/../vtcs_root_vienna/lib/libmsgbroker.so.1
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/../vtcs_root_vienna/lib/libmsgbroker.so
+/home/ethan/M5S-V2.3/03_SDK/02_Software_Tool_Kit/sdk_v2.3/sdk/modules/../vtcs_root_vienna/include/msg_broker.h

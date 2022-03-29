@@ -1,0 +1,62 @@
+mime_io.lo: \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/mime_io.cpp \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pv_amr_wb_type_defs.h \
+ ../oscl/oscl_base.h \
+ /opt/vtcs_toolchain/vienna/usr/lib/gcc/arm-buildroot-linux-uclibcgnueabihf/4.9.4/include/stdint.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/stdint.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/features.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/uClibc_config.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/sys/cdefs.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wchar.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wordsize.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/include/pvamrwbdecoder_api.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder.h \
+ ../opencore/codecs_v2/audio/gsm_amr/common/dec/include/pvgsmamrdecoderinterface.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder_mem_funcs.h \
+ ../oscl/oscl_mem.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/stdlib.h \
+ /opt/vtcs_toolchain/vienna/usr/lib/gcc/arm-buildroot-linux-uclibcgnueabihf/4.9.4/include/stddef.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/string.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder_cnst.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/dtx.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/mime_io.h
+
+../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pv_amr_wb_type_defs.h:
+
+../oscl/oscl_base.h:
+
+/opt/vtcs_toolchain/vienna/usr/lib/gcc/arm-buildroot-linux-uclibcgnueabihf/4.9.4/include/stdint.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/stdint.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/features.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/uClibc_config.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/sys/cdefs.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wchar.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wordsize.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/include/pvamrwbdecoder_api.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder.h:
+
+../opencore/codecs_v2/audio/gsm_amr/common/dec/include/pvgsmamrdecoderinterface.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder_mem_funcs.h:
+
+../oscl/oscl_mem.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/stdlib.h:
+
+/opt/vtcs_toolchain/vienna/usr/lib/gcc/arm-buildroot-linux-uclibcgnueabihf/4.9.4/include/stddef.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/string.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/pvamrwbdecoder_cnst.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/dtx.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_wb/dec/src/mime_io.h:

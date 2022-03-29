@@ -1,0 +1,35 @@
+gray_tbl.lo: \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/src/gray_tbl.cpp \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h \
+ ../oscl/oscl_base_macros.h \
+ ../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gsm_amr_typedefs.h \
+ ../oscl/oscl_base.h \
+ /opt/vtcs_toolchain/vienna/usr/lib/gcc/arm-buildroot-linux-uclibcgnueabihf/4.9.4/include/stdint.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/stdint.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/features.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/uClibc_config.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/sys/cdefs.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wchar.h \
+ /opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wordsize.h
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/typedef.h:
+
+../oscl/oscl_base_macros.h:
+
+../opencore/codecs_v2/audio/gsm_amr/amr_nb/common/include/gsm_amr_typedefs.h:
+
+../oscl/oscl_base.h:
+
+/opt/vtcs_toolchain/vienna/usr/lib/gcc/arm-buildroot-linux-uclibcgnueabihf/4.9.4/include/stdint.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/stdint.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/features.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/uClibc_config.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/sys/cdefs.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wchar.h:
+
+/opt/vtcs_toolchain/vienna/usr/arm-buildroot-linux-uclibcgnueabihf/sysroot/usr/include/bits/wordsize.h:
